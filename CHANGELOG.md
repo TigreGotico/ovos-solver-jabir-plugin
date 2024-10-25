@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/TigreGotico/ovos-solver-jabir-plugin/tree/HEAD)
+## [V0.0.0a3](https://github.com/TigreGotico/ovos-solver-jabir-plugin/tree/V0.0.0a3) (2024-10-25)
 
-[Full Changelog](https://github.com/TigreGotico/ovos-solver-jabir-plugin/compare/3ab033073f3483700d1546c5cf046d13b012eb62...HEAD)
+[Full Changelog](https://github.com/TigreGotico/ovos-solver-jabir-plugin/compare/3ab033073f3483700d1546c5cf046d13b012eb62...V0.0.0a3)
 
 **Merged pull requests:**
 
